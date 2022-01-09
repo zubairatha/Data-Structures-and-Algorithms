@@ -232,5 +232,4 @@ int main()
     }
     }
  }
-getch();
 }
